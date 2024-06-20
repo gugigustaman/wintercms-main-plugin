@@ -1,0 +1,6 @@
+plugin:
+    name: 'kingu.main::lang.plugin.name'
+    description: 'kingu.main::lang.plugin.description'
+    author: Kingu
+    icon: wn-icon-archive
+    replaces: {  }

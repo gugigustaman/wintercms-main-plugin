@@ -1,0 +1,25 @@
+{
+    "name": "kingu/wintercms-main-plugin",
+    "type": "winter-plugin",
+    "description": "Main plugin for Winter CMS",
+    "homepage": "https://github.com/gugigustaman/wintercms-main-plugin",
+    "keywords": ["winter", "wintercms", "main"],
+    "authors": [
+        {
+            "name": "Gugi Gustaman",
+            "email": "gugi.gustaman.15@gmail.com",
+            "role": "Original Author"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "composer/installers": "~1.0"
+    },
+    "support": {
+        "issues": "https://github.com/gugigustaman/wintercms-main-plugin/issues",
+        "source": "https://github.com/gugigustaman/wintercms-main-plugin"
+    },
+    "extra": {
+        "installer-name": "main"
+    }
+}
