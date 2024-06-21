@@ -4,3 +4,8 @@ plugin:
     author: Kingu
     icon: wn-icon-archive
     replaces: {  }
+navigation:
+    main:
+        label: Konten
+        url: kingu/main/main
+        icon: icon-plug
